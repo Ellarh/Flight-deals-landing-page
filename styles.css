@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    background-color: #f8ffff;
+
+}
+
+.top-container{
+    text-align: center;
+    position: absolute;
+    width: 100%;
+}
+
+.logo{
+    width: 120px;
+    margin-top: 50px;
+}
+
+h1{
+    font-family: 'Slabo 27px', serif;
+    font-size: 50px;
+}
+
+.title{
+    margin-bottom: 0;
+}
+
+p{
+    font-family: 'Dosis', sans-serif;
+    font-size: 40px;
+}
+
+input{
+    width: 20%;
+    padding: 7px 4px;
+    margin-bottom: 10px;
+}
+
+.submit{
+    width: 10%;
+    padding: 7px 4px;
+    background-color: #9BA3EB;
+    border-color:  #9BA3EB;
+}
+
+.submit:hover{
+    background-color: #646FD4;
+}
+
+.top-paragraph{
+    font-size: 10px;
+}
+
+.list{
+    display: inline-block;
+    padding: 60px 10px 0px 10px;
+    position: relative;
+    width: 90px;
+}
+
+.body{
+    position: relative:
+    text-align: center;
+    margin: 0 15%;
+    font-size: 20px;
+}
+
+h2{
+    margin-top: 10px;
+    font-family: 'Slabo 27px', serif;
+}
+
+.save{
+    float: left;
+    margin: 20px 0 100px 50px;
+}
+
+.efficient{
+    float: left;
+    margin: 20px 0 100px 60px;
+}
+
+.budget{
+    float: left;
+    margin: 20px 0 100px 120px;
+}
+
+
+
+hr{
+    position: relative;
+    width: 10%;
+    border: dotted #D3D3D3 5px;
+    border-bottom: None;
+    margin: 50px auto;
+}
+
+.user{
+    font-size: 50px;
+}
+
+.user1{
+    width: 20%;
+    padding: 20px 0;
+}
+
+.user1-decription{
+    font-size: 20px;
+    padding: 0 20%;
+    margin-top: 0;
+}
+
+.user2{
+    width: 20%;
+    margin: 100px 0 20px;
+}
+
+.bottom{
+    margin: 200px 0;
+}
